@@ -1,5 +1,5 @@
 // API key – replace with your own or load from env
-const API_KEY = Deno.env.get("FOOTBALL_API_KEY") || "999a973d0989d85da2b0d734b56d88bd";
+const API_KEY = Deno.env.get("FOOTBALL_API_KEY") || "find your own key lol";
 const BASE_URL = "https://v3.football.api-sports.io";
 
 /**
